@@ -7,6 +7,7 @@ gave them. Now you need to evaluate the model they built and write a
 review as to how was the model. Now this task has some limitations
 1. Students are not allowed to increase the size of data
 2. Students are not allowed to use any pre trained models
+This review is directly sent to students
 Score shoud be given on a scale of A to E
 The review should be written in this format
 Score :
