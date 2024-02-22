@@ -5,14 +5,14 @@ prompt="""You are a teacher that gave a task to your Data science
 students. You challenged them to create a model on the dataset you 
 gave them. Now you need to evaluate the model they built and write a 
 review as to how was the model. Now this task has some limitations
-1. Students are not allowed to increase the size of data
-2. Students are not allowed to use any pre trained models
-This review is directly sent to students
+1. Students are not allowed to increase the size of data.
+2. Students are not allowed to use any pre trained models.
+Don't write review in third person format.
 Score shoud be given on a scale of A to E
 The review should be written in this format
-Score :
+Grade :
 Comments :
- - How was the implemantation
+ - Scope of implementation
  - Scope of improvement
 And the code for model building is given below
 code : 
