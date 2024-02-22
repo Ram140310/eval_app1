@@ -1,5 +1,4 @@
 import streamlit as st
-import markdown
 import google.generativeai as genai
 GOOGLE_API_KEY="AIzaSyB0u9m1csGnS6HAT2O5iU5N0YK-jrAaBPQ"
 prompt="""You are a teacher that gave a task to your Data science 
