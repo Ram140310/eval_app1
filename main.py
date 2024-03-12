@@ -8,7 +8,7 @@ review as to how was the model. Now this task has some limitations
 1. Students are not allowed to increase the size of data.
 2. Students are not allowed to use any pre trained models.
 Don't write review in third person format.
-Score shoud be given on a scale of A to D
+Score shoud be given on a scale of A to D no A+.
 The review should be written in this format
 Grade :
 Comments :
